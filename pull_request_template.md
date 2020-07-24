@@ -1,2 +1,2 @@
 Test checklist
-[] test checkbox
+- [ ]test checkbox
